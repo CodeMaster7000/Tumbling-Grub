@@ -1,2 +1,7 @@
 # Tumbling-Grub
-A basic tumbling grub game coded in Python. Use the arrow keys to move around the bucket and catch some food. Run 'Tumbling Grub.py' in a terminal if you have Python 3.
+
+## About
+A basic tumbling grub game coded in Python.
+
+## Instructions
+Run `python3 Tumbling Grub.py` in a terminal if you have Python 3. Then, use the arrow keys to move the bucket around and catch some food. Enjoy!
