@@ -1,4 +1,4 @@
-# Tumbling-Grub
+# Tumbling Grub
 
 ## About
 A basic tumbling grub game coded in Python.
